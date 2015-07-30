@@ -1,0 +1,89 @@
+[
+	{
+	    	"first_name": "Tayryn",
+		"last_name": "Edwards",
+		"email": "tayryne@uchicago.edu",
+		"officer_rank": 8,
+		"bio_msg": "Tayryn (“Tyroo”) Edwards is a fourth year Sociology and English major who traveled all the way from the “boring” part of California to the actual boring part of Chicago—But luckily, she hasn’t had to mourn the death of fun at all since she’s been at the U of C. When she’s not on the lacrosse field, in a dance studio, performing slam poetry, drawing, or pretending to be an attorney...she’s probably asleep. But in her waking hours, she would absolutely love to hear from you. She can be reached at",
+		"img_name": "board_tayryn2.jpg"
+	},
+	{
+			"first_name": "Weian",
+		"last_name": "Wang",
+		"email": "weian@uchicago.edu",
+		"officer_rank": 7,
+		"bio_msg": "Weian 'Wanf' Wang is a third-year Math major hailing from the Bay Area in sunny California. Mock Trial is by far the favorite of her pasttimes, but in her downtime, she can be found upvoting funnies on Quora, reminding you that she's from California, complaining about the cold, and napping. She can be reached at",
+		"img_name": "board_weian2.jpg"
+	},
+	{
+		"first_name": "Gadiel",
+		"last_name": "Williams",
+		"email": "EDIT@uchicago.edu",
+		"officer_rank": 6,
+		"bio_msg": "BiO TO COME",
+		"img_name": "board_ryne.jpg"
+	},
+	{
+		"first_name": "Ryne",
+		"last_name": "Cannon",
+		"email": "rynemc@uchicago.edu",
+		"officer_rank": 5,
+		"bio_msg": "Ryne is a fourth-year International Studies and Spanish/Catalan double major who hails from the \"official\" Danish Capitol of America: Solvang, CA. When he isn't talking about his various imaginary families and pretending to know the law, Ryne can either be found running along the lakefront trail or in the kitchen baking his famous Trader Joe's-based apple pie from scratch (He would be underwater, but unlike the Pacific Ocean, Lake Michigan freezes over.) He can be reached with your questions, concerns, invectives, and Dharma Initiative conspiracy theories at",
+		"img_name": "board_ryne2.jpg"
+	},
+	{
+		"first_name": "Clio Sophia",
+		"last_name": "Koller",
+		"email": "cliosophiakoller@uchicago.edu",
+		"officer_rank": 4,
+		"bio_msg": "Clio Sophia Koller is a second-year HIPS major and Molecular Engineering minor. She hails from the city of Santa Monica in that small, little known state with ohh so much water (but seriously no drought jokes pls). When Clio's not practicing her speech in the gym mirror, much to the horror of those exercising, she can be found either drinking a latte at Div School, drinking a latte at Plein Air, drinking a latte at Ex Libris, drinking a latte at Harper...or wishing she were drinking a latte. She can be reached at",
+		"img_name": "board_clio.jpg"
+	},
+	{
+		"first_name": "Catherine",
+		"last_name": "Martinez",
+		"officer_rank": 3
+	},
+	{
+		"first_name": "Weian",
+		"last_name": "Wang",
+		"officer_rank": 2
+	},
+	{
+		"first_name": "",
+		"last_name": "",
+		"officer_rank": 1
+	},
+	{
+		"first_name": "",
+		"last_name": "",
+		"officer_rank": 1
+	},
+	{
+		"first_name": "",
+		"last_name": "",
+		"officer_rank": 1
+	},
+	{
+		"first_name": "",
+		"last_name": "",
+		"officer_rank": 1
+	},
+	{
+		"first_name": "",
+		"last_name": "",
+		"officer_rank": 1
+	},
+	{
+		"first_name": "Test",
+		"last_name": "Person"
+	},
+	{
+		"first_name": "Another",
+		"last_name": "Test"
+	},
+	{
+		"first_name": "Athird",
+		"last_name": "Testperson"
+	}
+]

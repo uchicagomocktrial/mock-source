@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% from "macro.html" import load_js, top_bar, intro,  officers, recent_news,
+contact_us, footer, build_officer_modals, summary, tournament,
+tournament_modal %}
+
+{% block content %}
+<body data-spy="scroll">
+
+
+  {{ top_bar() }}
+
+  {{ intro() }}
+
+  {{ summary() }}
+
+  {{ officers(officer_members) }}
+
+  {{ tournament() }}
+
+  {{ recent_news(photos) }}
+
+  {{ contact_us() }}
+
+  {{ footer() }}
+
+  {{ load_js(remote_url) }}
+
+
+  <!-- this needs to be outside of a fixed position element or it breaks -->
+  {{ build_officer_modals(members_with_modals) }}
+  {{ tournament_modal() }}
+
+</body>
+
+{% endblock %}
