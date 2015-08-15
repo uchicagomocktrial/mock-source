@@ -193,3 +193,7 @@ and it should just work. If it doesn't, talk to me.
 # Outstanding issues
 
 The size of images that come out of Twitter is awkward: we don't resize them, so they can be horribly misaligned. A better person than me could change it so that we grab a thumbnail (of a pre-known size) to keep the grid of images from Twitter a regular size.
+
+# Credit
+[Patrick Collins](http://github.com/pscollins)
+Currently maintained by [Weian Wang](http://github.com/weianwang)
