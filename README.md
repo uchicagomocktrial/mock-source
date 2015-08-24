@@ -168,7 +168,7 @@ So:
 	cd twitterhook
 	make decrypt_conf
 
-Now you'll be promted for a password --- which is the same as the password to the UChicago mock trial Twitter account. After you enter it, you'll have a file called `config.py` under twitterhook.
+Now you'll be prompted for a password --- which is the same as the password to the UChicago mock trial Twitter account. After you enter it, you'll have a file called `config.py` under twitterhook.
 
 I stole this strategy from [here](http://ejohn.org/blog/keeping-passwords-in-source-control/).
 
@@ -196,4 +196,5 @@ The size of images that come out of Twitter is awkward: we don't resize them, so
 
 # Credit
 [Patrick Collins](http://github.com/pscollins)
+
 Currently maintained by [Weian Wang](http://github.com/weianwang)

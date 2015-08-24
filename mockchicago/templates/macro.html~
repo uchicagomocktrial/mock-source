@@ -29,16 +29,16 @@
 			  <a href="#about" class="gn-icon gn-icon-help">What do we do?</a>
 			</li>
 			<li>
-			  <a href="#meet" class="gn-icon gn-icon-download">Meet the Team</a>
+			  <a href="#meet" class="gn-icon gn-icon-download">Meet the team</a>
 			</li>
 			<li>
 			  <a href="#fire" class="gn-icon gn-icon-article">The Great Chicago Fire</a>
 			</li>
 			<li>
-			  <a href="#works" class="gn-icon gn-icon-pictures" >Recent News</a>
+			  <a href="#works" class="gn-icon gn-icon-pictures" >Recent news</a>
 			</li>
 			<li>
-			  <a href="#contact" class="gn-icon gn-icon-archive">Get in Touch</a>
+			  <a href="#contact" class="gn-icon gn-icon-archive">Join</a>
 			</li>
 		  </ul>
 		</div><!-- /gn-scroller -->
