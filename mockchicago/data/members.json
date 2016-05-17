@@ -1,52 +1,53 @@
 [
 	{
-	    	"first_name": "Tayryn",
-		"last_name": "Edwards",
-		"email": "tayryne@uchicago.edu",
-		"officer_rank": 8,
-		"bio_msg": "Tayryn (\"Tyroo\") Edwards is a 4th year English major born and raised beneath that California sunshine. When she's not pretending she passed the Bar, sore from lacrosse practice, sketching people she knows and loves when they aren't looking, or reintroducing folks to 90's R&B and Hip Hop...she's probably asleep...or in the library...or both. But in her waking hours, she'd love to hear from you. She can be reached at",
-		"img_name": "board_tayryn2.jpg"
-	},
-	{
-			"first_name": "Weian",
+	    	"first_name": "Weian",
 		"last_name": "Wang",
 		"email": "weian@uchicago.edu",
-		"officer_rank": 7,
-		"bio_msg": "Weian Wang is a third-year Math major hailing from the Bay Area in sunny California. Mock Trial is by far the favorite of her past times, but in her downtime, she can be found upvoting funnies on Quora, reminding you that she's from California, complaining about the cold, and napping. She can be reached at",
+		"officer_rank": 8,
+		"bio_msg": "Weian Wang is a fourth-year Math major hailing from the Bay Area. Mock Trial is by far the favorite of her past times, but in her downtime, she can be found upvoting funnies on Quora, reminding you that she's from California, complaining about the cold, and napping. She can be reached at",
 		"img_name": "board_weian2.jpg"
 	},
 	{
-		"first_name": "Gadiel",
-		"last_name": "Williams",
-		"email": "gowilliams@uchicago.edu",
-		"officer_rank": 6,
-		"bio_msg": "Gadiel Williams is a third year student studying Political Science and Public Policy. Hailing from the Sunshine State, he has traded days spent lazing in the Fort Lauderdale sun for Chicago's infamously harsh winters. When he's not lost in the pages of a comic book or cheering on his soccer team, Manchester United, he's throwing himself headfirst into the myriad of misadventures the Windy City has to offer. He can be reached at",
-		"img_name": "board_gadiel.jpg"
-	},
-	{
-		"first_name": "Ryne",
-		"last_name": "Cannon",
-		"email": "rynemc@uchicago.edu",
-		"officer_rank": 5,
-		"bio_msg": "Ryne is a fourth-year International Studies and Spanish/Catalan double major who hails from the \"official\" Danish Capitol of America: Solvang, CA. When he isn't talking about his various imaginary families and pretending to know the law, Ryne can either be found running along the lakefront trail or in the kitchen baking his famous Trader Joe's-based apple pie from scratch (He would be underwater, but unlike the Pacific Ocean, Lake Michigan freezes over.) He can be reached with your questions, concerns, invectives, and Dharma Initiative conspiracy theories at",
-		"img_name": "board_ryne2.jpg"
-	},
-	{
-		"first_name": "Clio Sophia",
+			"first_name": "Clio Sophia",
 		"last_name": "Koller",
 		"email": "cliosophiakoller@uchicago.edu",
-		"officer_rank": 4,
-		"bio_msg": "Clio Sophia Koller is a second-year HIPS major and Molecular Engineering minor. She hails from the city of Santa Monica in that small, little known state with ohh so much water (but seriously no drought jokes pls). When Clio's not practicing her speech in the gym mirror, much to the horror of those exercising, she can be found either drinking a latte at Div School, drinking a latte at Plein Air, drinking a latte at Ex Libris, drinking a latte at Harper...or wishing she were drinking a latte. She can be reached at",
+		"officer_rank": 7,
+		"bio_msg": "Clio Sophia Koller is a third-year HIPS major and Molecular Engineering minor. She hails from the city of Santa Monica in that small, little known state with ohh so much water (but seriously no drought jokes pls). When Clio's not practicing her speech in the gym mirror, much to the horror of those exercising, she can be found either drinking a latte at Div School, drinking a latte at Plein Air, drinking a latte at Ex Libris, drinking a latte at Harper...or wishing she were drinking a latte. She can be reached at",
 		"img_name": "board_clio.jpg"
 	},
 	{
-		"first_name": "Catherine",
-		"last_name": "Martinez",
+		"first_name": "Caroline",
+		"last_name": "Veniero",
+		"email": "cveniero@uchicago.edu",
+		"officer_rank": 6,
+		"bio_msg": "Bio coming soon!",
+		"img_name": "board_tbd.jpg"
+	},
+	{
+		
+		"first_name": "Gadiel",
+		"last_name": "Williams",
+		"email": "gowilliams@uchicago.edu",
+		"officer_rank": 5,
+		"bio_msg": "Gadiel Williams is a third-year student studying Political Science and Public Policy. Hailing from the Sunshine State, he has traded days spent lazing in the Fort Lauderdale sun for Chicago's infamously harsh winters. When he's not lost in the pages of a comic book or cheering on his soccer team, Manchester United, he's throwing himself headfirst into the myriad of misadventures the Windy City has to offer. He can be reached at",
+		"img_name": "board_gadiel.jpg"
+	},
+	{
+		"first_name": "Alexei",
+		"last_name": "Owen",
+		"email": "alowen@uchicago.edu",
+		"officer_rank": 4,
+		"bio_msg": "Bio coming soon!",
+		"img_name": "board_tbd.jpg"
+	},
+	{
+		"first_name": "",
+		"last_name": "",
 		"officer_rank": 3
 	},
 	{
-		"first_name": "Weian",
-		"last_name": "Wang",
+		"first_name": "",
+		"last_name": "",
 		"officer_rank": 2
 	},
 	{
